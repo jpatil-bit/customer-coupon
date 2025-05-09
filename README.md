@@ -25,16 +25,6 @@ https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
 
 ### Key Features:
 
-- **`coupon`**: The type of coupon offered to the customer (e.g., Bar, Coffee).
-- **`Y`**: Binary indicator of whether the coupon was accepted (1 = accepted, 0 = not accepted).
-- **`age`**: Customer’s age.
-- **`gender`**: Gender of the customer (Male/Female).
-- **`maritalStatus`**: Marital status of the customer (e.g., Single, Married).
-- **`income`**: Customer's income level (e.g., Low, Medium, High).
-- **`destination`**: The purpose of the customer’s travel (e.g., Work, Home).
-- **`passenger`**: Whether the customer was traveling with children (Yes/No).
-- **`expiration`**: The expiration period of the coupon.
-
 ---
 
 ##  Analysis and hypothesis
@@ -44,6 +34,7 @@ https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
 3. Drivers over the age of 25 visit bars more frequently (more than once a month) compared to younger age groups.. 
 4. Drivers with no kids and not in the occupation of farming, fishing, or forestry visit bars more frequently than parents in others.. 
 5. Drivers with age <30 and income <50k , with passanger having no kids , not widowed , visits bar more frequently and visits restaurant < $20 4-8 times a months
+   
 ########## **Hypothesize about drivers who accepted the coffee coupons** ##########
 1. Coffee coupon acceptance rate is 49.92%. 
 2. Sunny day with temperature of 30 F has more acceptance. 
