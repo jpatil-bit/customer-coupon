@@ -66,4 +66,4 @@ Ensure you have Python 3.x installed and the necessary dependencies:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/customer-coupon-acceptance-eda.git
+   git clone https://github.com/jpatil-bit/customer-coupon.git
