@@ -44,6 +44,10 @@ https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
 ---
 
 ##  Analysis and hypothesis
+*** File jupyter file containes all the EDA's ***
+
+https://github.com/jpatil-bit/customer-coupon/blob/main/customer_coupon_eda.ipynb
+
 ########## **Hypothesize about drivers who accepted the bar coupons** ##########
 1. Coupon rejection is more than coupon acceptance. 
 2. Coupon acceptance rate is 56.8% , out of which 41.00% is the Bar coupon acceptance. 
