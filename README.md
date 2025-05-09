@@ -24,6 +24,22 @@ Visualizations such as **bar plots** are used to gain insights from the data.
 https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
 
 ### Key Features:
+**destination**
+**passanger**
+**weather**
+**temperature**
+**coupon**	
+**expiration**
+**gender**
+**age**
+**maritalStatus**
+**has_children	education**
+**occupation**
+**income	car**
+**Bar**
+**CoffeeHouse**
+**Y** Where 1 means accepted and 0 implies rejected.
+
 
 ---
 
@@ -47,11 +63,7 @@ https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
 
 Various visualizations are used in this analysis to uncover insights from the data:
 
-- **Bar Plots**: To compare coupon acceptance rates across different categories (e.g., age, marital status).
-- **KDE (Kernel Density Estimate)**: To visualize the distribution of continuous features (e.g., age, income) against coupon acceptance.
-- **Heatmaps**: To check correlations between numerical features.
-- **Histograms**: To analyze the distribution of continuous features like age and income.
-- **Box Plots**: For identifying outliers and examining the spread of data.
+- **Bar Plots**: 
 
 ---
 
