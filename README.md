@@ -44,7 +44,7 @@ https://github.com/jpatil-bit/customer-coupon/blob/main/data/coupons.csv
 ---
 
 ##  Analysis and hypothesis
-*** File jupyter file containes all the EDA's ***
+*** Jupyter file containes all the EDA's and plots ***
 
 https://github.com/jpatil-bit/customer-coupon/blob/main/customer_coupon_eda.ipynb
 
